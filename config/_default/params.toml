@@ -73,7 +73,7 @@ copyRight = "Copyright (c) 2023 Luminum Team"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Мы старательно работаем над нашим проектом, так что если вам не трудно, пожалуйста, <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">поддержите нас копеечкой</a>!"
+alertText = "Мы старательно работаем над нашим проектом, так что если вам не трудно, пожалуйста, <a class=\"alert-link stretched-link\" href=\"https://yoomoney.ru/to/4100117896480654/\" target=\"_blank\" rel=\"noopener\">поддержите нас копеечкой</a>!"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
