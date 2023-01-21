@@ -1,9 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Luminum"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
+titleAddition = "Один Discord-бот для всех Ваших потребностей"
 description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 
 ## Documentation
@@ -65,23 +65,22 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Сделано при помощи <a class=\"text-muted\" href=\"https://pages.github.com/\">GitHub pages</a> и <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2023 Luminum Team"
 
 # Alert
-alert = false
+alert = true
 alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+alertText = "Мы старательно работаем над нашим проектом, так что если вам не трудно, пожалуйста, <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">поддержите нас копеечкой</a>!"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
-docsRepoBranch = "master"
+docsRepo = "https://github.com/LuminumBot/Luminum"
+docsRepoBranch = "gh-pages"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
