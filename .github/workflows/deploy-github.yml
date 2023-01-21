@@ -1,4 +1,4 @@
-# Deploy your Hyas site to GitHub Pages
+# Deploy site to GitHub Pages
 
 name: GitHub Pages
 
@@ -9,10 +9,10 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
         with:
           node-version: '16'
           cache: 'npm'
