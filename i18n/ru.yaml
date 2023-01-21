@@ -1,0 +1,17 @@
+- id: get-started
+  translation: "Начать"
+
+- id: on-this-page
+  translation: "На этой странице"
+
+- id: search-text
+  translation: "Найти..."
+
+- id: 404-title
+  translation: "Страница не найдена :("
+
+- id: 404-text
+  translation: "Страница, которую Вы ищете не существует или была перемещена."
+
+- id: browse
+  translation: "Смотреть"
